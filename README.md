@@ -39,7 +39,7 @@ f. Other factors (e.g., student effort, school support, attendance) may play a m
 * Promote Effective Study Habits by Provide training or workshops on time management, study techniques, and exam preparation
 * Strengthen Academic Support System by Implementing structured academic support programs (e.g., after-school tutoring, study groups, mentoring)
 * Shift Focus from Parental Background to Student Behaviour Schools should prioritise interventions that improve student-level factors such as study habits, attendance, and
-   engagement rather than relying on parental education as a predictor of success. 
+  engagement rather than relying on parental education as a predictor of success. 
 2. **Study Hours VS Performance: Does more study time improve performace of students**      
 Key Observations from Data    
 a. Students studying around 25–26 hours/week achieve the highest total scores (~1440)    
@@ -54,10 +54,10 @@ f. Poor balance between study and rest
 **Recommendations**       
 “Student performance peaks at moderate study levels, suggesting that optimal study habits not excessive hours drive better academic outcomes.”        
 “The analysis reveals diminishing returns beyond 26 study hours per week, highlighting the importance of optimised study patterns rather than excessive workload.”          
- Encourage effective study strategies, not just longer hours          
- Promote balanced schedules (study + rest) 
-3. **Attendance VS Performance: How Attendance affect students performance**      
-  Answers     
+Encourage effective study strategies, not just longer hours          
+Promote balanced schedules (study + rest) 
+3. **Attendance VS Performance:
+How Attendance affect students performance**           
 a.66% of students who passed had good attendance       
 b.Only 34% of students did not pass, which is significantly lower      
 c.This indicates that higher attendance is associated with better academic performance         
@@ -75,14 +75,14 @@ While attendance is strongly linked to performance, it may also be connected to 
 should be considered alongside other variables
 *Improve Attendance Monitoring & Intervention Introduce early warning systems to track attendance and intervene when patterns of absenteeism emerge.
 *Teachers should Engage students with interactive learning 
- 
+
 4. **How does Internet Affect Passed Rate of Students**
 **Key Observations**
 a. 51% of students who passed had internet access 
 b. 49% of students who passed did not have internet access 
 The difference is very small (only 2%) 
 
- **Interpretation**
+**Interpretation**
 Internet access appears to have a limited direct impact on student pass rates in this dataset 
 Unlike attendance (which showed a strong effect), internet access is not a dominant factor on its own 
 This suggests that: 
