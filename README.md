@@ -9,13 +9,15 @@
 **Project Description** This project utilises a simulated dataset of 500 high school students to explore the relationship between demographic characteristics, learning behaviours, and academic performance. The dataset includes variables such as study hours, attendance rate, parental education, internet access, previous scores, and final outcomes. The analysis supports both classification modelling (predicting pass/fail outcomes) and regression modelling (estimating final scores), providing a comprehensive view of student performance drivers. Key insights are derived by examining how factors such as study time and attendance influence academic success.
 Data cleaning and preprocessing were performed using Excel and/or Power Query to ensure data quality and consistency. Exploratory data analysis (EDA) was conducted to identify trends, patterns, and correlations within the dataset. Interactive dashboards were developed to visualise key performance indicators, enabling stakeholders in the education sector to monitor student performance, identify at-risk students, and support data-driven decision-making for improved academic outcomes.
 
-**Data Cleaning Process**Performed comprehensive data cleaning in Excel, including handling missing values, removing duplicates, standardising categorical variables, and transforming data types to ensure accurate and reliable analysis.
+**Data Cleaning Process** 
+Performed comprehensive data cleaning in Excel, including handling missing values, removing duplicates, standardising categorical variables, and transforming data types to ensure accurate and reliable analysis.
 
 **Problem Statement:**
 Which factors have the greatest impact on student academic performance?
 
 **Key Findings** 
 **Key Drivers for Academic Success**
+
 Study hours vs performance 
 Attendance vs performance 
 Socio-demographic influence
@@ -38,29 +40,27 @@ f. Other factors (e.g., student effort, school support, attendance) may play a m
 * Strengthen Academic Support System by Implementing structured academic support programs (e.g., after-school tutoring, study groups, mentoring)
 * Shift Focus from Parental Background to Student Behaviour Schools should prioritise interventions that improve student-level factors such as study habits, attendance, and
    engagement rather than relying on parental education as a predictor of success. 
-
- 2. **Study Hours VS Performance: Does more study time improve performace of students**      
- Key Observations from Data    
- a. Students studying around 25–26 hours/week achieve the highest total scores (~1440)    
- b. Students studying 21 hours/week also perform relatively well (~1420   
- c. Performance declines for students studying above 26 hours:       
+2. **Study Hours VS Performance: Does more study time improve performace of students**      
+Key Observations from Data    
+a. Students studying around 25–26 hours/week achieve the highest total scores (~1440)    
+b. Students studying 21 hours/week also perform relatively well (~1420   
+c. Performance declines for students studying above 26 hours:       
   There appears to be an optimal study range (around 24–26 hours/week) where students perform best.    
   Studying too little may limit performance, but studying too much may lead to diminishing returns or burnout.       
   The decline at higher study hours suggests:       
 d. Fatigue       
 e. Inefficient study methods     
-f.  Poor balance between study and rest      
+f. Poor balance between study and rest      
 **Recommendations**       
 “Student performance peaks at moderate study levels, suggesting that optimal study habits not excessive hours drive better academic outcomes.”        
 “The analysis reveals diminishing returns beyond 26 study hours per week, highlighting the importance of optimised study patterns rather than excessive workload.”          
  Encourage effective study strategies, not just longer hours          
-Promote balanced schedules (study + rest) 
-
+ Promote balanced schedules (study + rest) 
 3. **Attendance VS Performance: How Attendance affect students performance**      
   Answers     
-a.  66% of students who passed had good attendance       
-b.  Only 34% of students did not pass, which is significantly lower      
-c.  This indicates that higher attendance is associated with better academic performance         
+a.66% of students who passed had good attendance       
+b.Only 34% of students did not pass, which is significantly lower      
+c.This indicates that higher attendance is associated with better academic performance         
 **Results interpretation**      
 Attendance appears to be a major driver of student success       
 Students who attend classes regularly are:      
