@@ -16,8 +16,6 @@ Performed comprehensive data cleaning in Excel, including handling missing value
 Which factors have the greatest impact on student academic performance?
 
 **Key Findings** 
-**Key Drivers for Academic Success**
-
 Study hours vs performance 
 Attendance vs performance 
 Socio-demographic influence
