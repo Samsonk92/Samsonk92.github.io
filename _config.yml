@@ -1,16 +1,13 @@
-tittle: Samson Imoleayo Kolawole
+tittle: Samson Kolawole
 logo: IMG_20200328_223215_449 (1).jpg
 description: 
-A results-driven data analyst with over five years of experience leveraging Microsoft Excel, 
-SQL, and Power BI to deliver actionable insights and support data-driven decision-making. 
-Skilled in using Excel for advanced data automation, including pivot tables, Power Query, complex formulas, 
-and VBA to streamline reporting processes and improve efficiency. Proficient in SQL (Structured Query Language) for data extraction,
-transformation, and interrogation of large, complex datasets. Experienced in writing optimised queries, joins, 
-CTEs, and window functions to support analysis and reporting requirements. 
-Strong expertise in Power BI for building interactive dashboards and business intelligence reports, 
-enabling stakeholders to monitor key performance indicators, identify trends, 
-and make informed strategic decisions. Adept at data modelling, DAX calculations, 
-and creating visually compelling and user-friendly reports. 
+  A results-driven data analyst with over five years of experience leveraging Microsoft Excel,
+  SQL, and Power BI to deliver actionable insights and support data-driven decision-making.
+  Skilled in Excel for advanced data automation, including pivot tables, Power Query, and VBA.
+  Proficient in SQL for data extraction, transformation, and analysis of complex datasets.
+  Experienced in building interactive dashboards using Power BI, with strong knowledge of DAX,
+  data modelling, and business intelligence reporting.
+
 #show_downloads: true
 #google_analytics:
 theme: jekyll-theme-minimal
