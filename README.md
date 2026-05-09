@@ -5,6 +5,8 @@
 **Title** [STUDENTS ACADEMIC PERFORMANCE RECORDS](https://github.com/Samsonk92/Samsonk92.github.io/blob/main/SAPRECORDS2.png) 
 
 **Project Overview**
+
+
 Analysed academic performance data of 500 high school students to identify the key drivers of student success.
 
 Built interactive dashboards and performed data cleaning, transformation, and exploratory data analysis (EDA) using Excel and Power Query.
@@ -35,6 +37,7 @@ Focus educational support on student behaviour and engagement rather than demogr
 Ensure learning resources remain accessible both online and offline.
 
 **Impact**
+
 Delivered actionable insights that can help schools improve student performance through data-driven decision-making.
 
 Designed clear, interactive dashboards for easy monitoring of academic trends and student risk factors.
