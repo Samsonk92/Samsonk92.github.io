@@ -99,6 +99,7 @@ Applied data visualisation, KPI tracking, and trend analysis to improve business
 
 
 **Project 3** 
+
 Healthcare Analytics Dashboard | Excel Business Intelligence Project
 Project Overview
 
@@ -122,38 +123,47 @@ Support resource allocation and operational planning
 Improve healthcare decision-making through data visualization
 
 **Key Insights Delivered**
+
 **Operational Insights**
+
 Patient admissions remained stable between 2020–2023 before declining in 2024, highlighting the need for capacity and trend monitoring.
 Average hospital stay of 16 days indicates significant resource utilization and operational pressure.
 
 **Financial Insights**
+
 Total treatment costs exceeded $1.4B, emphasizing the importance of cost optimization and healthcare efficiency.
 Average treatment cost per patient provides visibility into healthcare spending patterns.
 
 **Clinical Insights**
+
 Chronic conditions such as Arthritis, Diabetes, and Hypertension recorded the highest patient volume.
 Elderly patients (71+) represented the largest patient group, reinforcing the growing demand for geriatric and long-term care services.
 
 **Stakeholder Insights**
+
 Insurance coverage distribution was balanced across providers, reducing dependency risk.
 Top-performing hospitals and doctors were identified for performance benchmarking and workload analysis.
 
 **Stakeholder Recommendations**
 
 **For Hospital Executives**
+
 Invest in predictive analytics for patient demand forecasting.
 Reduce treatment costs through operational efficiency initiatives.
 Improve patient flow management to reduce length of stay.
 
 **For Clinical Teams**
+
 Strengthen chronic disease prevention and management programs.
 Expand elderly care and long-term treatment support services.
 
 **For Operations Managers**
+
 Monitor declining admission trends in 2024 for strategic planning.
 Optimize staffing and resource allocation using admission trends.
 
 **For Financial Stakeholders**
+
 Analyze high-cost treatment areas for budgeting and cost control.
 Improve insurer relationship management and reimbursement tracking.
 
