@@ -88,6 +88,7 @@ Use seasonal promotions and targeted campaigns to manage revenue fluctuations.
 
 Focus growth strategies on high-performing regions while improving underperforming markets.
 
+
 **Portfolio Impact**
 
 Built an interactive Power BI dashboard to analyse customer psychology and purchasing behaviour.
@@ -95,3 +96,67 @@ Built an interactive Power BI dashboard to analyse customer psychology and purch
 Delivered actionable insights to support data-driven sales, marketing, and customer engagement strategies.
 
 Applied data visualisation, KPI tracking, and trend analysis to improve business decision-making.
+
+
+**Project 3** 
+Healthcare Analytics Dashboard | Excel Business Intelligence Project
+Project Overview
+
+Developed an interactive Healthcare Analytics Dashboard in Excel to monitor patient metrics, treatment costs, hospital performance, admission trends, demographics, and insurance coverage. The dashboard transforms raw healthcare data into actionable insights that support operational and strategic decision-making for healthcare stakeholders.
+
+**Tools & Skills Demonstrated**
+
+Microsoft Excel, Interactive Dashboard Design, KPI Reporting, Data Cleaning & Transformation, Pivot Tables & Pivot Charts, Slicers & Dynamic Filtering, Business Intelligence, Healthcare Data Analytics, Data Visualization, Stakeholder Reporting
+
+**Business Problems Addressed**
+
+This dashboard helps healthcare stakeholders to:
+
+Monitor total patient activity and treatment costs
+Track yearly patient admission trends
+Identify high-demand medical conditions
+Analyze patient demographics and age distribution
+Evaluate insurance provider coverage
+Monitor physician workload and hospital performance
+Support resource allocation and operational planning
+Improve healthcare decision-making through data visualization
+
+**Key Insights Delivered**
+**Operational Insights**
+Patient admissions remained stable between 2020–2023 before declining in 2024, highlighting the need for capacity and trend monitoring.
+Average hospital stay of 16 days indicates significant resource utilization and operational pressure.
+
+**Financial Insights**
+Total treatment costs exceeded $1.4B, emphasizing the importance of cost optimization and healthcare efficiency.
+Average treatment cost per patient provides visibility into healthcare spending patterns.
+
+**Clinical Insights**
+Chronic conditions such as Arthritis, Diabetes, and Hypertension recorded the highest patient volume.
+Elderly patients (71+) represented the largest patient group, reinforcing the growing demand for geriatric and long-term care services.
+
+**Stakeholder Insights**
+Insurance coverage distribution was balanced across providers, reducing dependency risk.
+Top-performing hospitals and doctors were identified for performance benchmarking and workload analysis.
+
+**Stakeholder Recommendations**
+
+**For Hospital Executives**
+Invest in predictive analytics for patient demand forecasting.
+Reduce treatment costs through operational efficiency initiatives.
+Improve patient flow management to reduce length of stay.
+
+**For Clinical Teams**
+Strengthen chronic disease prevention and management programs.
+Expand elderly care and long-term treatment support services.
+
+**For Operations Managers**
+Monitor declining admission trends in 2024 for strategic planning.
+Optimize staffing and resource allocation using admission trends.
+
+**For Financial Stakeholders**
+Analyze high-cost treatment areas for budgeting and cost control.
+Improve insurer relationship management and reimbursement tracking.
+
+**Project Impact**
+
+This project demonstrates the ability to transform complex healthcare datasets into clear, executive-level insights that support strategic planning, operational efficiency, and data-driven healthcare management.
