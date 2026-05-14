@@ -170,3 +170,11 @@ Improve insurer relationship management and reimbursement tracking.
 **Project Impact**
 
 This project demonstrates the ability to transform complex healthcare datasets into clear, executive-level insights that support strategic planning, operational efficiency, and data-driven healthcare management.
+
+**Dash Board Overview**
+![Health Care Data Dash Board 3](Health Care Data Dash Board 3.png)
+
+
+)
+
+
