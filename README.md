@@ -173,7 +173,7 @@ This project demonstrates the ability to transform complex healthcare datasets i
 
 **Dash Board Overview**
 
-![HealthCare3](HealthCare3)
+![HealthCare3](HealthCare3.png)
 
 
 
