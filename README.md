@@ -174,7 +174,3 @@ This project demonstrates the ability to transform complex healthcare datasets i
 **Dash Board Overview**
 ![Health Care Data Dash Board 3](Health Care Data Dash Board 3.png)
 
-
-)
-
-
