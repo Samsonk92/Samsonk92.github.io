@@ -43,7 +43,7 @@ Delivered actionable insights that can help schools improve student performance 
 Designed clear, interactive dashboards for easy monitoring of academic trends and student risk factors.
 
 **Dash Board Overview**
-![StudentAcademic5](StudentAcademic5.png)
+![StudentAcademic7](StudentAcademic7.png)
 
 **Project 2**
 
