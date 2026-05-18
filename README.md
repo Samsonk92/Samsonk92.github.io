@@ -101,6 +101,7 @@ Applied data visualisation, KPI tracking, and trend analysis to improve business
 **Project 3** 
 
 **Title** [Healthcare Analytics Dashboard](https://github.com/Samsonk92/Samsonk92.github.io/blob/main/HealthCareReports11.png)
+
 Project Overview
 
 Developed an interactive Healthcare Analytics Dashboard in Excel to monitor patient metrics, treatment costs, hospital performance, admission trends, demographics, and insurance coverage. The dashboard transforms raw healthcare data into actionable insights that support operational and strategic decision-making for healthcare stakeholders.
