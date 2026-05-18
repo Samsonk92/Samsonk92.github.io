@@ -2,7 +2,7 @@
 
 **Project 1**
 
-**Title** [STUDENTS ACADEMIC PERFORMANCE RECORDS](https://github.com/Samsonk92/Samsonk92.github.io/blob/main/SAPRECORDS2.png) 
+**Title** [STUDENTS ACADEMIC PERFORMANCE RECORDS](https://github.com/Samsonk92/Samsonk92.github.io/blob/main/StudentAcademic7.png)
 
 **Project Overview**
 
