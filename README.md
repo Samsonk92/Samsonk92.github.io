@@ -76,7 +76,7 @@ Improve insurer relationship management and reimbursement tracking.
 This project demonstrates the ability to transform complex healthcare datasets into clear, executive-level insights that support strategic planning, operational efficiency, and data-driven healthcare management.
 
 **Dash Board Overview**
-![HealthCareReports11.png](HealthCareReports11.png) 
+![HealthCareReports11](HealthCareReports11.png) 
 
 
 **Project 2**
