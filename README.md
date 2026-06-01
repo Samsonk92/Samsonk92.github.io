@@ -1,104 +1,7 @@
 **Data Analysis Potfolio**
 
-**Project 1**
 
-**Title** [STUDENTS ACADEMIC PERFORMANCE RECORDS](https://github.com/Samsonk92/Samsonk92.github.io/blob/main/StudentAcademic7.png)
-
-**Project Overview**
-
-
-Analysed academic performance data of 500 high school students to identify the key drivers of student success.
-
-Built interactive dashboards and performed data cleaning, transformation, and exploratory data analysis (EDA) using Excel and Power Query.
-
-Investigated the impact of study habits, attendance, parental education, and internet access on student outcomes.
-
-**Key Insights**
-
-Attendance was the strongest predictor of academic success students with high attendance accounted for 66% of passes.
-
-Optimal study time mattered more than excessive studying students studying 24–26 hours/week achieved the highest performance, while results declined beyond this range.
-
-Parental education showed limited influence on student success, suggesting behavioural factors play a bigger role.
-
-Internet access had minimal direct impact on pass rates, indicating that student engagement and study habits were more 
-critical.
-
-Identified that balanced study routines, consistent attendance, and student engagement were the major contributors to improved academic outcomes.
-
-**Business/Stakeholder Recommendations**
-
-Implement early attendance intervention systems to identify at-risk students.
-
-Promote effective study techniques and balanced learning schedules.
-
-Focus educational support on student behaviour and engagement rather than demographic assumptions.
-
-Ensure learning resources remain accessible both online and offline.
-
-**Impact**
-
-Delivered actionable insights that can help schools improve student performance through data-driven decision-making.
-
-Designed clear, interactive dashboards for easy monitoring of academic trends and student risk factors.
-
-**Dash Board Overview**
-![StudentAcademic7](StudentAcademic7.png)
-
-**Project 2**
-
-Project Overview
-Analysed customer purchasing behaviour in the footwear industry using Power BI to identify how brand preference, shopping channels, product types, and regional trends influence sales performance and consumer decisions.
-
-**Tools Used** Power BI, Power Query, DAX, Excel
-
-**Data Cleaning & Preparation**
-
-Cleaned and transformed raw sales data using Power Query and Excel.
-
-Removed duplicates, handled missing values, and corrected inconsistent data entries.
-
-Standardised country names, product categories, and sales channel formats for accurate analysis.
-
-Converted data types and validated revenue calculations to improve reporting accuracy.
-
-Created calculated measures and KPIs using DAX for Month-over-Month revenue analysis and performance tracking.
-
-**Key Insights**
-
-Skechers generated the highest revenue, indicating strong customer trust and brand loyalty.
-
-Retail stores outperformed online sales, showing customers prefer physical shopping experiences for footwear purchases.
-
-Sneakers and Formal shoes recorded the highest demand, suggesting customers prioritise comfort, fashion, and everyday usability.
-
-UAE and UK were the top-performing markets, while Germany showed the lowest sales performance.
-
-Month-over-Month analysis revealed strong sales growth in February and July, with a significant decline in August, highlighting seasonal buying behaviour.
-
-**Business Recommendations**
-
-Strengthen marketing around high-performing brands and products.
-
-Improve in-store customer experience to increase customer retention and sales.
-
-Expand digital marketing and online customer engagement strategies.
-
-Use seasonal promotions and targeted campaigns to manage revenue fluctuations.
-
-Focus growth strategies on high-performing regions while improving underperforming markets.
-
-
-**Portfolio Impact**
-
-Built an interactive Power BI dashboard to analyse customer psychology and purchasing behaviour.
-
-Delivered actionable insights to support data-driven sales, marketing, and customer engagement strategies.
-
-Applied data visualisation, KPI tracking, and trend analysis to improve business decision-making.
-
-
-**Project 3** 
+**Project 1** 
 
 **Title** [Healthcare Analytics Dashboard](https://github.com/Samsonk92/Samsonk92.github.io/blob/main/HealthCareReports11.png)
 
@@ -174,6 +77,145 @@ This project demonstrates the ability to transform complex healthcare datasets i
 
 **Dash Board Overview**
 ![HealthCareReports11.png](HealthCareReports11.png) 
+
+
+**Project 2**
+
+**Title** [HR Analytics Dash Board](https://github.com/Samsonk92/Samsonk92.github.io/blob/main/HRanalyticsdashboard.jpg) 
+
+**Project Overview**
+This project explores employee attrition patterns and workforce demographics through an interactive Power BI dashboard. By analyzing departmental turnover, salary bands, age groups, job roles, and employee experience, the dashboard reveals key factors influencing retention and workforce stability. The insights generated support strategic HR planning, talent management, and evidence-based decision-making, showcasing the power of analytics in driving organizational performance.
+
+**Tools & Technologies Used**
+
+Data Visualization & Business Intelligence
+Power BI Desktop
+
+**Data Preparation & Transformation**
+
+Power Query Editor, Data Cleaning, Data Transformation, Data Profiling, Data Type Management, Data Modeling
+
+**Data Analysis & Calculations**
+
+DAX (Data Analysis Expressions), Custom Measures, Calculated Columns, Quick Measures, Time Intelligence Functions, Aggregation Functions
+
+**Dashboard Development**
+
+KPI Cards, Interactive Visualizations, Slicers and Filters, Drill-Down Analysis, Cross-Filtering, Conditional Formatting, Custom Tooltips.
+
+**Skills Demonstrated**
+
+Data Cleaning and Transformation, Data Modeling, DAX Measure Development, KPI Design, Interactive Dashboard Development, Workforce Analytics
+Attrition Analysis, Data Visualization, Business Intelligence, Data Storytelling, Insight Generation, Stakeholder Reporting, Analytical Thinking
+Problem Solving.
+
+**Business Problems Addressed**
+Monitoring employee attrition and workforce retention trends.
+Identifying departments, job roles, and salary bands with the highest turnover.
+Understanding workforce demographics and employee distribution.
+Supporting data-driven HR and workforce planning decisions.
+Evaluating the impact of compensation and experience on attrition.
+Improving employee retention strategies through actionable insights.
+Enabling executive-level workforce reporting and KPI tracking.
+Transforming HR data into meaningful business intelligence for decision-making.
+
+**Executive Summary**
+
+The organisation currently employs 1,417 employees, with 1,186 active employees and 231 recorded attritions, resulting in an overall attrition rate of 16.3%.
+While workforce demographics appear balanced in terms of age and gender distribution, attrition is concentrated within specific departments, salary bands, and job roles, indicating targeted retention challenges rather than organisation-wide dissatisfaction.
+
+**Key Insights & Recommendations**
+
+**1. Operations Department Has the Highest Attrition**
+
+The Operations department represents the largest workforce segment (36% of employees) and experiences the highest employee turnover. This may indicate workload pressures, employee dissatisfaction, or limited career progression opportunities.
+
+**Recommendation:** 
+
+Conduct targeted employee engagement surveys, exit interviews, and workload assessments to identify root causes of attrition.
+
+**2. Mid-Level Employees Are Most Likely to Leave**
+
+Employees within the 6–10 LPA salary band show the highest attrition levels, suggesting retention challenges among experienced and high-performing talent.
+
+**Recommendation:** 
+
+Review compensation structures, career development pathways, and promotion opportunities to improve retention.
+
+**3. Research-Focused Roles Face Retention Challenges**
+
+Research Scientist positions contribute significantly to attrition, posing a risk to innovation, knowledge retention, and organizational growth.
+
+**Recommendation:**
+
+Strengthen professional development programs, internal mobility opportunities, and long-term career planning initiatives.
+
+**4. Early-Career Employees Show Higher Turnover**
+
+Attrition is concentrated among employees with lower years of experience, indicating potential onboarding and early engagement challenges.
+
+**Recommendation:** 
+
+Enhance onboarding programs, mentoring initiatives, and first-year employee support strategies.
+
+**5. Workforce Is Concentrated Between Ages 26–45**
+
+The majority of employees fall within the 26–45 age range, representing the organization's core productive workforce.
+
+**Recommendation:** 
+
+Prioritize retention and career development initiatives for this demographic to maintain workforce stability.
+
+**Dash Board Overview**
+![HRanalyticsdashboard.png](HRanalyticsdashboard.png)
+
+
+**Project 3**
+
+**Title** [STUDENTS ACADEMIC PERFORMANCE RECORDS](https://github.com/Samsonk92/Samsonk92.github.io/blob/main/StudentAcademic7.png)
+
+**Project Overview**
+
+
+Analysed academic performance data of 500 high school students to identify the key drivers of student success.
+
+Built interactive dashboards and performed data cleaning, transformation, and exploratory data analysis (EDA) using Excel and Power Query.
+
+Investigated the impact of study habits, attendance, parental education, and internet access on student outcomes.
+
+**Key Insights**
+
+Attendance was the strongest predictor of academic success students with high attendance accounted for 66% of passes.
+
+Optimal study time mattered more than excessive studying students studying 24–26 hours/week achieved the highest performance, while results declined beyond this range.
+
+Parental education showed limited influence on student success, suggesting behavioural factors play a bigger role.
+
+Internet access had minimal direct impact on pass rates, indicating that student engagement and study habits were more 
+critical.
+
+Identified that balanced study routines, consistent attendance, and student engagement were the major contributors to improved academic outcomes.
+
+**Business/Stakeholder Recommendations**
+
+Implement early attendance intervention systems to identify at-risk students.
+
+Promote effective study techniques and balanced learning schedules.
+
+Focus educational support on student behaviour and engagement rather than demographic assumptions.
+
+Ensure learning resources remain accessible both online and offline.
+
+**Impact**
+
+Delivered actionable insights that can help schools improve student performance through data-driven decision-making.
+
+Designed clear, interactive dashboards for easy monitoring of academic trends and student risk factors.
+
+**Dash Board Overview**
+![StudentAcademic7](StudentAcademic7.png)
+
+
 
 
 
