@@ -162,12 +162,12 @@ Enhance onboarding programs, mentoring initiatives, and first-year employee supp
 
 The majority of employees fall within the 26–45 age range, representing the organization's core productive workforce.
 
-**Recommendation:** 
+**Recommendation:**
 
 Prioritize retention and career development initiatives for this demographic to maintain workforce stability.
 
 **Dash Board Overview**
-![HRanalyticsdashboard.png](HRanalyticsdashboard.png)
+![HRanalyticsdashboard](HRanalyticsdashboard.png)
 
 
 **Project 3**
