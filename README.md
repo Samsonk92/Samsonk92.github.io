@@ -110,6 +110,7 @@ Attrition Analysis, Data Visualization, Business Intelligence, Data Storytelling
 Problem Solving.
 
 **Business Problems Addressed**
+
 Monitoring employee attrition and workforce retention trends.
 Identifying departments, job roles, and salary bands with the highest turnover.
 Understanding workforce demographics and employee distribution.
